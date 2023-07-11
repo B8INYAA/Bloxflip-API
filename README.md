@@ -1,6 +1,3 @@
-# [Bloxflip API](https://api.bloxflip-predictors.xyz/)
-A bloxflip api alternative created by Blix.
-
 ## Predicting Mines
 
 Import requests
