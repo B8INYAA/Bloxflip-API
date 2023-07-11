@@ -1,4 +1,4 @@
-# [Bloxflip API](https://api.bloxflip-predictors.xyz/)https://api.bloxflip-predictors.xyz/
+# [Bloxflip API](https://api.bloxflip-predictors.xyz/)
 A bloxflip api alternative created by Blix.
 
 ## Predicting 
